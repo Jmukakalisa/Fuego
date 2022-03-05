@@ -1,0 +1,146 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.homepage {
+    background: cyan;
+    font-size: 3rem;
+}
+
+button {
+    border-radius: 20px;
+    border: none;
+    outline: none;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+
+.homepage button {
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    border: none1;
+    outline: none;
+    background-color: rgb(180, 243, 240);
+    padding: 10px;
+    font-size: 4rem;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+
+.homepage .sign .up {
+    height: 150rem;
+    width: 150rem;
+    border-radius: 14px;
+    background: #ada9a9;
+    -webkit-border-radius: 14px;
+    -moz-border-radius: 14px;
+    -ms-border-radius: 14px;
+    -o-border-radius: 14px;
+    text-align: center;
+    margin-left: 20% auto;
+    margin-right: 20% auto;
+}
+
+.homepage .sign .up input {
+    height: 56px;
+    width: 380px;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
+
+.homepage .sign .in {
+    height: 926px;
+    width: 428px;
+    border-radius: 15px;
+    width: 428px;
+    height: 926px;
+    background: #c20372;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
+
+.homepage .sign .in input {
+    height: 45px;
+    width: 331px;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
+
+.dashboard {
+    height: 926px;
+    width: 428px;
+    border-radius: 15px;
+    width: 428px;
+    height: 926px;
+    background: #86c26b;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
+
+.chatroom {
+    height: 926px;
+    width: 428px;
+    border-radius: 20px;
+    width: 428px;
+    height: 926px;
+    background: #056329;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+
+.profile {
+    height: 926px;
+    width: 428px;
+    border-radius: 20px;
+    width: 428px;
+    height: 926px;
+    background: #b35c15;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+
+.profile2 {
+    height: 926px;
+    width: 428px;
+    border-radius: 20px;
+    width: 428px;
+    height: 926px;
+    background: #043d4b;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+
+.about {
+    height: 926px;
+    width: 428px;
+    border-radius: 20px;
+    width: 428px;
+    height: 926px;
+    background: #c9b500;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
